@@ -32,8 +32,12 @@
 <div>
     <h2>Step 6: Commit your changes</h2>
     <div>After you finish adding the new content, simply save the file and use the following two commands to commit the changes:</div>
+    <div>
     <pre><code>git add .</code></pre>
+    </div>
+    <div>
     <pre><code>git commit -m "[type your first and last name as a message]"</code></pre>
+    </div>
 </div>
 
 <div>
