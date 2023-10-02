@@ -1,1 +1,18 @@
-Add any content here!!
+Useful Software Engineering Definitions:
+
+Functional requirements: [add definition here]
+
+Non-functional requirements: [add definition here]
+
+Agile model: [add definition here]
+
+Waterflow model: [add definition here]
+
+User stories: [add definition here]
+
+Steps of Software Requirements Analysis:
+
+[steps here]
+Types of non-functional requirements:
+
+[list here]
