@@ -10,7 +10,7 @@
     <h2>Step 2: Clone this Repository</h2>
     <div>You can clone the GitHub repo by using the following command:</div>
     <pre><code>git clone [repo url]</code></pre>
-    <div>The repo url is: [insert repo url here]</div>
+    <div>The repo url is: https://github.com/omaranBazna/software-engineering-course-assignment.git <div>
    <div>
        if you do not have git downloaded , you can download it from <a href="https://git-scm.com/downloads" > here </a>
    </div>
