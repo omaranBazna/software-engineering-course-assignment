@@ -11,8 +11,7 @@ Waterflow model: [add definition here]
 User stories: [add definition here]
 
 Steps of Software Requirements Analysis:
-
 [steps here]
-Types of non-functional requirements:
 
+Types of non-functional requirements:
 [list here]
