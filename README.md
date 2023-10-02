@@ -43,7 +43,7 @@
 <div>
     <h2>Step 7: Push the changes back to your remote repo</h2>
     <div>After you are done working on the repo on your local device, push the changes back to the remote repo on GitHub:</div>
-    <pre><code>git push</code></pre>
+    <pre><code>git push --set-upstream origin [new branch name]</code></pre>
 </div>
 
 <div>
