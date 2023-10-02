@@ -3,7 +3,7 @@
 <div>
     <h2>Step 1: Fork this Repository (very important) </h2>
     <div>You can fork it by clicking the fork button.</div>
- ![Fork](https://github.com/omaranBazna/software-engineering-course-assignment/assets/100542103/d9e5e73f-b4f7-44f6-b258-6a3ac61b7bb5)
+ < img src="https://github.com/omaranBazna/software-engineering-course-assignment/assets/100542103/d9e5e73f-b4f7-44f6-b258-6a3ac61b7bb5" />
 </div>
 
 <div>
