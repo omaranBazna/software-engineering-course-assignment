@@ -11,6 +11,9 @@
     <div>You can clone the GitHub repo by using the following command:</div>
     <pre><code>git clone [repo url]</code></pre>
     <div>The repo url is: [insert repo url here]</div>
+   <div>
+       if you do not have git downloaded , you can download it from <a href="https://git-scm.com/downloads" > here </a>
+   </div>
 </div>
 <div>
     <h2>Step 3: Pick an open issue</h2>
