@@ -1,7 +1,7 @@
 <h1>Software Engineering Course GitHub Assignment</h1>
 
 <div>
-    <h2>Step 1: Fork this Repository</h2>
+    <h2>Step 1: Fork this Repository (very important) </h2>
     <div>You can fork it by clicking the fork button.</div>
 </div>
 
