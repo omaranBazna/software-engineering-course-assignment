@@ -12,7 +12,11 @@
     <pre><code>git clone [repo url]</code></pre>
     <div>The repo url is: [insert repo url here]</div>
 </div>
+<div>
+    <h2>Step 3: Pick an open issue</h2>
+  <img src="https://github.com/omaranBazna/software-engineering-course-assignment/assets/100542103/5973e7b2-63a0-445d-9a4f-242e3384732c" />
 
+</div>
 <div>
     <h2>Step 3: Create a new branch</h2>
     <div>Give the new branch any name you want:</div>
