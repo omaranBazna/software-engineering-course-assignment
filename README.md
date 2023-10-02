@@ -7,10 +7,11 @@
 </div>
 
 <div>
-    <h2>Step 2: Clone this Repository</h2>
+    <h2>Step 2: Clone the <h2 style="color:red;">forked</h2> repo</h2>
     <div>You can clone the GitHub repo by using the following command:</div>
     <pre><code>git clone [repo url]</code></pre>
-    <div>The repo url is: https://github.com/omaranBazna/software-engineering-course-assignment.git <div>
+<img src="https://github.com/omaranBazna/software-engineering-course-assignment/assets/100542103/417f6930-339e-4bd9-89ad-27a7374ea136" />
+
    <div>
        if you do not have git downloaded , you can download it from <a href="https://git-scm.com/downloads" > here </a>
    </div>
