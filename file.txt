@@ -4,7 +4,7 @@ Functional requirements: [add definition here]
 
 Non-functional requirements: [add definition here]
 
-Agile model: [add definition here]
+Agile model: Small increments of software are developed in a sequence of sprints, each of which creates deployable code.
 
 Waterflow model: [add definition here]
 
