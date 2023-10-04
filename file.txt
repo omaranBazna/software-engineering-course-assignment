@@ -1,6 +1,10 @@
 Useful Software Engineering Definitions:
 
-Functional requirements: [add definition here]
+Functional requirements: 
+1- The scheduling app shall allow the admin and user to create a username and password securely.
+2- The Scheduling app shall allow the admin and user to log in and log out securely.
+3- The Scheduling app shall allow the admin and user to change their password securely.
+
 
 Non-functional requirements: [add definition here]
 
