@@ -15,4 +15,20 @@ Steps of Software Requirements Analysis:
 [steps here]
 
 Types of non-functional requirements:
-[list here]
+- Product Requirements
+    - Security Requirements
+    - Dependability Requirements
+    - Usability Requirements
+    - Efficiency Requirements
+        - Performance Requirements
+        - Space Requirements
+- Organizational Requirements
+    - Environmental Requirements
+    - Operational Requirements
+    - Development Requirements
+- External Requirements
+    - Regulatory Requirements
+    - Ethical Requirements
+    - Legislative Requirements
+        - Accounting Requirements
+        - Safety/Security Requirements
