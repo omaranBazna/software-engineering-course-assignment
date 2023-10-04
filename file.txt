@@ -8,4 +8,9 @@
 
     Hello there, im Ara
 
-    This is now a branch
+   
+ Definition of user stories
+
+ User stories are short conversational texts, they sonsist of 2-4 sentences written by the
+ stakeholders(in their own terminology) in terms of
+ what the system needs to do for them
