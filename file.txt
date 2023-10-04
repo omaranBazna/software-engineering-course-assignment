@@ -8,7 +8,8 @@ Agile model: Small increments of software are developed in a sequence of sprints
 
 Waterflow model: [add definition here]
 
-User stories: [add definition here]
+User stories: User stories are short conversational text. They consists of 2-4 sentences written by the stakeholders(in their own terminology)
+in terms of what the system needs to do for them 💅 
 
 Steps of Software Requirements Analysis:
 [steps here]
