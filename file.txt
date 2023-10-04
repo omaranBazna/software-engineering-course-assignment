@@ -1,10 +1,6 @@
 Useful Software Engineering Definitions:
 
-Functional requirements: 
-1- The scheduling app shall allow the admin and user to create a username and password securely.
-2- The Scheduling app shall allow the admin and user to log in and log out securely.
-3- The Scheduling app shall allow the admin and user to change their password securely.
-
+Functional requirements: are statements of what a software system must do to meet the needs of its users. They are typically written in plain language and should be specific, measurable, achievable, relevant, and time-bound.
 
 Non-functional requirements: [add definition here]
 
