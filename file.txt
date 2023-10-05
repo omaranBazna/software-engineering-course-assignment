@@ -12,7 +12,10 @@ User stories: User stories are short conversational text; They consists of 2-4 s
 in terms of what the system needs to do for them 💅 
 
 Steps of Software Requirements Analysis:
-[steps here]
+-  Interviewswith Clients
+- Understandthe Requirements
+- New and OldSystem
+- Discovering the unspoken requirements
 
 Types of non-functional requirements:
 - Product Requirements
