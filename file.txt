@@ -2,7 +2,7 @@ Useful Software Engineering Definitions:
 
 Functional requirements: are statements of what a software system must do to meet the needs of its users. They are typically written in plain language and should be specific, measurable, achievable, relevant, and time-bound.
 
-Non-functional requirements: [add definition here]
+Non-functional requirements: specify how a software system should perform, focusing on aspects like speed, security, and usability, rather than specific features. 
 
 Agile model: Small increments of software are developed in a sequence of sprints, each of which creates deployable code.
 
