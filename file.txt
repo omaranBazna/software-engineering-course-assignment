@@ -6,7 +6,7 @@ Non-functional requirements: Non-functional requirements (NFRs) specify how a so
 
 Agile model: Small increments of software are developed in a sequence of sprints, each of which creates deployable code.
 
-Waterflow model: [add definition here]
+Waterflow model: The waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software engineering and product development.
 
 User stories: User stories are short conversational text; They consists of 2-4 sentences written by the stakeholders(in their own terminology)
 in terms of what the system needs to do for them 💅 
