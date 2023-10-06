@@ -1,3 +1,6 @@
+Q: Who is stakeholders in software Project ?
+Ans: Any person or organization who is affected by the system in some way and so who has a legitimate interest.
+
 Useful Software Engineering Definitions:
 
 Functional requirements: are statements of what a software system must do to meet the needs of its users. They are typically written in plain language and should be specific, measurable, achievable, relevant, and time-bound.
