@@ -38,3 +38,7 @@ Types of non-functional requirements:
     - Legislative Requirements
         - Accounting Requirements
         - Safety/Security Requirements
+
+
+Q:Add definition latest start date
+A: The latest possible date at which a particular task or activity within a project can begin without causing a delay to the project's overall schedule.
