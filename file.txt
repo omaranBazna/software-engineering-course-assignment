@@ -1,4 +1,3 @@
-Test
 Q: Who is stakeholders in software Project ?
 Ans: Any person or organization who is affected by the system in some way and so who has a legitimate interest.
 
@@ -16,9 +15,9 @@ User stories: User stories are short conversational text; They consists of 2-4 s
 in terms of what the system needs to do for them 💅 
 
 Steps of Software Requirements Analysis:
--  Interviewswith Clients
+- Interviews with Clients
 - Understandthe Requirements
-- New and OldSystem
+- New and Old System
 - Discovering the unspoken requirements
 
 Types of non-functional requirements:
