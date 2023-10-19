@@ -32,3 +32,5 @@ Types of non-functional requirements:
     - Legislative Requirements
         - Accounting Requirements
         - Safety/Security Requirements
+
+The definiton of Slack in project management the time in between the tasks that is extra than it actually is so it is extra time that wont affect the project overall.
