@@ -1,3 +1,7 @@
+Eyimofe Oladipo has made edits to this file
+Q: Who is stakeholders in software Project ?
+Ans: Any person or organization who is affected by the system in some way and so who has a legitimate interest.
+
 Useful Software Engineering Definitions:
 
 Functional requirements: are statements of what a software system must do to meet the needs of its users. They are typically written in plain language and should be specific, measurable, achievable, relevant, and time-bound.
@@ -6,13 +10,16 @@ Non-functional requirements: Non-functional requirements (NFRs) specify how a so
 
 Agile model: Small increments of software are developed in a sequence of sprints, each of which creates deployable code.
 
-Waterflow model: [add definition here]
+Waterflow model: The waterfall model is a linear, sequential approach to the software development lifecycle (SDLC) that is popular in software engineering and product development.
 
 User stories: User stories are short conversational text; They consists of 2-4 sentences written by the stakeholders(in their own terminology)
 in terms of what the system needs to do for them 💅 
 
 Steps of Software Requirements Analysis:
-[steps here]
+- Interviews with Clients
+- Understandthe Requirements
+- New and Old System
+- Discovering the unspoken requirements
 
 Types of non-functional requirements:
 - Product Requirements
@@ -33,4 +40,11 @@ Types of non-functional requirements:
         - Accounting Requirements
         - Safety/Security Requirements
 
+
 The definiton of Slack in project management the time in between the tasks that is extra than it actually is so it is extra time that wont affect the project overall.
+
+
+
+Q:Add definition latest start date
+A: The latest possible date at which a particular task or activity within a project can begin without causing a delay to the project's overall schedule.
+
