@@ -41,7 +41,14 @@ Types of non-functional requirements:
         - Safety/Security Requirements
 
 
+The definiton of Slack in project management the time in between the tasks that is extra than it actually is so it is extra time that wont affect the project overall.
+
+
+
 Q:Add definition latest start date
 A: The latest possible date at which a particular task or activity within a project can begin without causing a delay to the project's overall schedule.
+
+
+
 Q:What is stockholder in Software project #19
 A: anyone interested in the sucess of the project
