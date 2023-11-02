@@ -43,3 +43,5 @@ Types of non-functional requirements:
 
 Q:Add definition latest start date
 A: The latest possible date at which a particular task or activity within a project can begin without causing a delay to the project's overall schedule.
+Q:What is stockholder in Software project #19
+A: anyone interested in the sucess of the project
